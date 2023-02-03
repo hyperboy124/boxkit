@@ -4,8 +4,10 @@ chezmoi
 cosign
 dbus-x11
 direnv
+exa
 ffmpeg
 fzf
+git
 github-cli
 helix
 just
